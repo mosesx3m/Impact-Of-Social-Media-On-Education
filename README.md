@@ -1,6 +1,14 @@
 # Impact Of Social Media On Education
-- [Project-Overview](project-overview)
-- [Data-Cleaning-And-Preparation](data-cleaning-and-preparation)
+- [Project-Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Data Cleaning And Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Key Findings](#key-findings)
+- [Technical Skills Used](#technical-skills-used)
+- [Summary](#summary)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
 
 
 ### Project Overview
@@ -20,10 +28,11 @@ The primary data dataset used for this analysis is the "Students Social Media Ad
 - Removing duplicates
 - Replacing irregular entries
 
-### Exploratory Data Analysis: Guiding Questions
+### Exploratory Data Analysis 
+#### Guiding Questions
 The analysis was guided by a series of questions designed to uncover patterns and relationships within the dataset. The key questions addressed were grouped by their relationship to the key findings.
 
-#### General Social Media Usage
+#### 1 General Social Media Usage
 
 - Which platform is the most popular among students?
 
@@ -35,7 +44,7 @@ The analysis was guided by a series of questions designed to uncover patterns an
 
 - What is the relationship between social media usage and mental health scores?
 
-#### Specific Demographics & Their Vulnerabilities
+#### 2 Specific Demographics & Their Vulnerabilities
 
 - Which academic level is most affected by social media addiction?
 
@@ -45,7 +54,7 @@ The analysis was guided by a series of questions designed to uncover patterns an
 
 - Top countries with high reports of students affected 
 
-#### Addiction & Its Impact on Performance
+#### 3 Addiction & Its Impact on Performance
 
 - How does addiction score relate to academic impact?
 
@@ -99,6 +108,14 @@ They also report high daily social media usage, suggesting they are a highly vul
 - Programming Languages & Tools:  Excel, SQL.
 
 
+### Summary
+
+This project investigates the critical relationship between social media usage and student well-being, focusing on its impact on academic performance, mental health, and sleep patterns. Through a comprehensive data analysis using SQL and visualization tools, I uncovered significant trends and vulnerabilities within the student population.
+
+The analysis revealed a strong correlation between high social media usage, lower sleep hours, and decreased mental health scores, with female students and the 19-20 age group being disproportionately affected.
+The findings demonstrate proficiency in data cleaning, exploratory analysis, and translating complex datasets into clear, actionable insights for stakeholders.
+
+
 ### Recommendations
 ##### Based on these findings, I recommend the following:
 - For the High schhol students, parents and schools should limit the students access to social media, by teaching them the disadvantages and the effect it will have over their education.
@@ -111,6 +128,4 @@ They also report high daily social media usage, suggesting they are a highly vul
 I had to write queries to create new columns in the dataset to be able to gather more insights regarding some certain areas and were not present in the dataset.
 
 
-### Data Cleaning And Preparation
 
-- Data loading and inspection
