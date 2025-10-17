@@ -124,8 +124,6 @@ The findings demonstrate proficiency in data cleaning, exploratory analysis, and
 - Provide Counseling Resources: Educational institutions should highlight and expand access to mental health services, specifically for students in complicated relationships, to help them navigate social conflicts and improve their well-being.
 - Relationship Guidance: Offer specialized counseling resources for students in complicated relationships to help them navigate social media-related conflicts and improve their mental well-being.
 
-### Limitations
-I had to write queries to create new columns in the dataset to be able to gather more insights regarding some certain areas and were not present in the dataset.
 
 
 
